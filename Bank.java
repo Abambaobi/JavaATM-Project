@@ -1,10 +1,10 @@
 public class Bank {
 
-        String cardNumber;
-        String cvv;
-        String accBal;
-        String pin;
-       public Bank(){
+       protected String cardNumber;
+       Protected String cvv;
+       Protected String accBal;
+       protected String pin;
+       Bank(){
 
 }
 
